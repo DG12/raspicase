@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="990"
+   height="765"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3911"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         id="path3887"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path3905"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(37.499607,9.20122)"
+     id="layer1">
+    <text
+       x="552.11902"
+       y="485.69174"
+       id="text3022"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+         x="552.11902"
+         y="485.69174"
+         id="tspan3024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Raspberry Pi is a trademark of the Raspberry Pi Foundation</tspan><tspan
+         x="552.11902"
+         y="500.69174"
+         id="tspan5106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" /><tspan
+         x="552.11902"
+         y="515.69177"
+         id="tspan5104"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Raspberry Pi Model B Case</tspan><tspan
+         x="552.11902"
+         y="530.69177"
+         id="tspan5102"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Copyright 2012 Chase Patterson</tspan><tspan
+         x="552.11902"
+         y="545.69177"
+         id="tspan3054"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" /><tspan
+         x="552.11902"
+         y="558.72357"
+         id="tspan3026"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">This document is free: you can redistribute it and/or modify</tspan><tspan
+         x="552.11902"
+         y="571.22357"
+         id="tspan3028"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">it under the terms of the GNU General Public License as published by</tspan><tspan
+         x="552.11902"
+         y="583.72357"
+         id="tspan3030"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">the Free Software Foundation, either version 3 of the License, or</tspan><tspan
+         x="552.11902"
+         y="596.22357"
+         id="tspan3032"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">(at your option) any later version.</tspan><tspan
+         x="552.11902"
+         y="608.72357"
+         id="tspan3034"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" /><tspan
+         x="552.11902"
+         y="621.22357"
+         id="tspan3036"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">This program is distributed in the hope that it will be useful,</tspan><tspan
+         x="552.11902"
+         y="633.72357"
+         id="tspan3038"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">but WITHOUT ANY WARRANTY; without even the implied warranty of</tspan><tspan
+         x="552.11902"
+         y="646.22357"
+         id="tspan3040"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the</tspan><tspan
+         x="552.11902"
+         y="658.72357"
+         id="tspan3042"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">GNU General Public License for more details.</tspan><tspan
+         x="552.11902"
+         y="671.22357"
+         id="tspan3044"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans" /><tspan
+         x="552.11902"
+         y="683.72357"
+         id="tspan3046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">You should have received a copy of the GNU General Public License</tspan><tspan
+         x="552.11902"
+         y="696.22357"
+         id="tspan5108"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;, or write to</tspan><tspan
+         x="552.11902"
+         y="708.72357"
+         id="tspan5116"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.</tspan></text>
+    <g
+       transform="translate(16.89416,-18.932347)"
+       id="g5058">
+      <text
+         x="622.7149"
+         y="101.32089"
+         id="text4966"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+           x="622.7149"
+           y="101.32089"
+           id="tspan5040"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">(<tspan
+   id="tspan5056"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">Print on transparency film)</tspan></tspan><tspan
+           x="622.7149"
+           y="116.32089"
+           id="tspan5052"
+           style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold" /><tspan
+           x="622.7149"
+           y="131.32089"
+           id="tspan5054"
+           style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">Instructions:</tspan><tspan
+           x="622.7149"
+           y="146.32089"
+           id="tspan5010"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans"><tspan
+   id="tspan5026"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">1.</tspan> Cut along all exterior lines.</tspan><tspan
+           x="622.7149"
+           y="161.32089"
+           id="tspan5014"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /><tspan
+           x="622.7149"
+           y="176.32089"
+           id="tspan4972"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans"><tspan
+   id="tspan5028"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">2.</tspan> Cut marked interior line segments.</tspan><tspan
+           x="622.7149"
+           y="191.32089"
+           id="tspan5016"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /><tspan
+           x="622.7149"
+           y="206.32089"
+           id="tspan4974"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans"><tspan
+   id="tspan5030"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">3.</tspan> Cut out connection holes, except the top side</tspan><tspan
+           x="622.7149"
+           y="221.32089"
+           id="tspan4990"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">(relative to the text) of the USB, Network, Power,</tspan><tspan
+           x="622.7149"
+           y="236.32089"
+           id="tspan4992"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">and HDMI connection holes.</tspan><tspan
+           x="622.7149"
+           y="251.32089"
+           id="tspan5018"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /><tspan
+           x="622.7149"
+           y="266.32089"
+           id="tspan4976"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans"><tspan
+   id="tspan5032"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">4.</tspan> Valley fold all remaining un-cut lines.</tspan><tspan
+           x="622.7149"
+           y="281.32089"
+           id="tspan5020"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /><tspan
+           x="622.7149"
+           y="296.32089"
+           id="tspan4978"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans"><tspan
+   id="tspan5034"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">5.</tspan> Valley fold the sides of the connection holes you</tspan><tspan
+           x="622.7149"
+           y="311.32089"
+           id="tspan4994"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">left intact in Step 3 above, creating tabs adjoined</tspan><tspan
+           x="622.7149"
+           y="326.32089"
+           id="tspan4996"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">at one side.</tspan><tspan
+           x="622.7149"
+           y="341.32089"
+           id="tspan5022"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /><tspan
+           x="622.7149"
+           y="356.32089"
+           id="tspan4984"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans"><tspan
+   id="tspan5036"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">6.</tspan> Apply clear, double-sided tape to each of the</tspan><tspan
+           x="622.7149"
+           y="371.32089"
+           id="tspan4998"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">tabs (1cm-wide strips) on the side facing into the</tspan><tspan
+           x="622.7149"
+           y="386.32089"
+           id="tspan5000"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">page (from which the text can be read correctly.</tspan><tspan
+           x="622.7149"
+           y="401.32089"
+           id="tspan5024"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /><tspan
+           x="622.7149"
+           y="416.32089"
+           id="tspan4988"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans"><tspan
+   id="tspan5038"
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">7.</tspan> Place Raspberry Pi on center panel and join</tspan><tspan
+           x="622.7149"
+           y="431.32089"
+           id="tspan5002"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">each corner with the taped tabs. Make sure</tspan><tspan
+           x="622.7149"
+           y="446.32089"
+           id="tspan5004"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">connections are properly fitted in holes, and the</tspan><tspan
+           x="622.7149"
+           y="461.32089"
+           id="tspan5006"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">tabs folded in Step 5 stay folded into the case,</tspan><tspan
+           x="622.7149"
+           y="476.32089"
+           id="tspan5008"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans">on top of the connectors.</tspan><tspan
+           x="622.7149"
+           y="491.32089"
+           id="tspan4982"
+           style="font-weight:normal;-inkscape-font-specification:Liberation Sans" /></text>
+      <text
+         x="579.22076"
+         y="72.084503"
+         id="text5044"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+           x="579.22076"
+           y="72.084503"
+           id="tspan5046"
+           style="font-size:24px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">Raspberry Pi Model B Case</tspan></text>
+    </g>
+    <g
+       id="g4335">
+      <g
+         transform="translate(-8,0)"
+         id="g4698">
+        <text
+           x="375.56857"
+           y="537.97571"
+           id="text3037"
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+             x="375.56857"
+             y="537.97571"
+             id="tspan3039">Cut segment</tspan></text>
+        <path
+           d="m 372.13445,552.74792 0,-35.43307"
+           id="rect3061"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+        <path
+           d="M 403.05086,544.78675 388.07503,518.84784"
+           transform="translate(-37.499607,-9.20122)"
+           id="path3878"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      </g>
+      <g
+         transform="translate(-3.9677048,-4)"
+         id="g4718">
+        <text
+           x="371.52795"
+           y="80.37661"
+           id="text4706"
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+             x="371.52795"
+             y="80.37661"
+             id="tspan4708">Cut segment</tspan></text>
+        <path
+           d="m 368.09384,95.14882 0,-35.43307"
+           id="path4710"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+        <path
+           d="M 361.51064,77.405383 346.53481,103.34429"
+           id="path4712"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      </g>
+      <g
+         transform="translate(-5.1090488,0)"
+         id="g3124">
+        <text
+           x="18.678259"
+           y="507.75027"
+           id="text4726"
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+             x="18.678259"
+             y="507.75027"
+             id="tspan4728">Cut segment</tspan></text>
+        <path
+           d="m 35.256645,495.32933 35.43307,0"
+           id="path4730"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+        <path
+           d="M 53.14325,490.79878 74.585903,478.41886"
+           id="path4748"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      </g>
+      <g
+         transform="translate(-4,0)"
+         id="g3114">
+        <text
+           x="17.56921"
+           y="102.09476"
+           id="text4948"
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+             x="17.56921"
+             y="102.09476"
+             id="tspan4950">Cut segment</tspan></text>
+        <path
+           d="m 34.147596,108.62709 35.43307,0"
+           id="path4952"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+        <path
+           d="m 53.138445,116.41069 21.442653,12.37992"
+           id="path4954"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      </g>
+      <g
+         id="g4293">
+        <g
+           id="g3277"
+           style="fill:none;stroke:#000000;stroke-opacity:1">
+          <rect
+             width="308.26773"
+             height="201.96851"
+             x="149.18599"
+             y="-322.8537"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2985"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="308.26773"
+             height="77.952759"
+             x="149.18599"
+             y="-400.80646"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2987"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="308.26773"
+             height="77.952759"
+             x="149.18599"
+             y="-120.88623"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2989"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="77.952759"
+             height="201.96851"
+             x="457.45374"
+             y="-322.8537"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2991"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="77.952759"
+             height="201.96851"
+             x="71.23185"
+             y="-322.85474"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2993"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="308.26773"
+             height="201.96851"
+             x="149.18599"
+             y="-602.776"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2995"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="77.952759"
+             height="35.433071"
+             x="71.23185"
+             y="-120.88519"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2997"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="35.433071"
+             height="77.952759"
+             x="113.75291"
+             y="-400.80646"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect2999"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="77.952759"
+             height="35.433071"
+             x="457.45374"
+             y="-120.88519"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3001"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="35.433071"
+             height="77.952759"
+             x="457.45374"
+             y="-400.80646"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3003"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="35.433071"
+             height="201.96851"
+             x="535.40509"
+             y="-322.8537"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3005"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="35.433071"
+             height="201.96851"
+             x="35.798779"
+             y="-322.8537"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3007"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="308.26773"
+             height="35.433071"
+             x="149.18462"
+             y="-42.933464"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3009"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="49.6063"
+             height="56.692913"
+             x="475.16888"
+             y="-184.66577"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3011"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="56.692913"
+             height="56.692913"
+             x="475.17029"
+             y="-261.82758"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3013"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="10.629921"
+             height="96.668503"
+             x="138.55469"
+             y="-277.79016"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3015"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <path
+             d="m -82.83251,319.49652 a 11.616755,11.616755 0 1 1 -23.23351,0 11.616755,11.616755 0 1 1 23.23351,0 z"
+             transform="matrix(0,1.0675593,-1.0675593,0,701.14094,485.64471)"
+             id="path3017"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <path
+             d="m -82.83251,319.49652 a 11.616755,11.616755 0 1 1 -23.23351,0 11.616755,11.616755 0 1 1 23.23351,0 z"
+             transform="matrix(0,1.2963221,-1.2963221,0,780.43061,439.04254)"
+             id="path3019"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="10.629921"
+             height="31.889763"
+             x="120.83815"
+             y="-163.40588"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3021"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="56.692913"
+             height="21.259842"
+             x="283.83029"
+             y="-97.854736"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3023"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="30.118111"
+             height="30.118111"
+             x="301.54681"
+             y="-381.31927"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3002"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+          <rect
+             width="24.80315"
+             height="24.80315"
+             x="372.41296"
+             y="-372.46103"
+             transform="matrix(0,1,-1,0,0,0)"
+             id="rect3772"
+             style="fill:none;stroke:#000000;stroke-opacity:1" />
+        </g>
+        <g
+           id="g3259">
+          <text
+             x="-252.91391"
+             y="134.89255"
+             transform="scale(-1,1)"
+             id="text3774"
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+               x="-252.91391"
+               y="134.89255"
+               id="tspan3776"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">SD Card</tspan></text>
+          <text
+             x="-165.78619"
+             y="117.17601"
+             transform="scale(-1,1)"
+             id="text3778"
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+               x="-165.78619"
+               y="117.17601"
+               id="tspan3780"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Power</tspan></text>
+          <text
+             x="132.23143"
+             y="-462.92859"
+             transform="scale(1,-1)"
+             id="text3782"
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+               x="132.23143"
+               y="-462.92859"
+               id="tspan3784"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Network</tspan></text>
+          <text
+             x="220.71646"
+             y="-463.24854"
+             transform="scale(1,-1)"
+             id="text3786"
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+               x="220.71646"
+               y="-463.24854"
+               id="tspan3788"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">USB</tspan></text>
+          <text
+             x="-347.4584"
+             y="-338.96414"
+             transform="matrix(0,-1,-1,0,0,0)"
+             id="text3790"
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+               x="-347.4584"
+               y="-338.96414"
+               id="tspan3792"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Composite</tspan><tspan
+               x="-347.4584"
+               y="-323.96414"
+               id="tspan3794"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Video Out</tspan></text>
+          <text
+             x="-400.60034"
+             y="-363.27039"
+             transform="matrix(0,-1,-1,0,0,0)"
+             id="text3796"
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+               x="-400.60034"
+               y="-363.27039"
+               id="tspan3798"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Audio</tspan><tspan
+               x="-400.60034"
+               y="-348.27039"
+               id="tspan3800"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Out</tspan></text>
+          <text
+             x="296.83398"
+             y="73.051651"
+             transform="matrix(0,1,1,0,0,0)"
+             id="text3802"
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
+               x="296.83398"
+               y="73.051651"
+               id="tspan3804"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">HDMI</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       x="645.36353"
+       y="100.20978"
+       id="text5048"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+         x="645.36353"
+         y="100.20978"
+         id="tspan5050" /></text>
+    <text
+       x="556.78613"
+       y="501.51309"
+       id="text5098"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+         x="556.78613"
+         y="501.51309"
+         id="tspan5100" /></text>
+  </g>
+</svg>
