@@ -97,6 +97,54 @@
          id="path3269"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
     </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend-20"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3911-84"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3124"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3126"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3128"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3130"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3132"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3134"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
   </defs>
   <metadata
      id="metadata7">
@@ -114,121 +162,120 @@
      transform="translate(37.499607,-11.704292)"
      id="layer1">
     <g
-       id="g4586">
+       id="g4546">
       <g
-         transform="translate(-17.566929,11.338581)"
-         id="g4698-3">
+         transform="translate(-9.5669291,7.796646)"
+         id="g3330">
         <text
-           x="375.56857"
+           x="367.56857"
            y="537.97571"
-           id="text3037-1"
+           id="text3037"
            xml:space="preserve"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
-             x="375.56857"
+             x="367.56857"
              y="537.97571"
-             id="tspan3039-4">Cut segment</tspan></text>
+             id="tspan3039">Cut segment</tspan></text>
         <path
-           d="m 372.13445,552.74792 0,-35.43307"
-           id="rect3061-9"
+           d="m 364.13445,552.74792 0,-35.43307"
+           id="rect3061"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
         <path
-           d="M 403.05086,544.78675 388.07503,518.84784"
-           transform="translate(-37.499607,-9.20122)"
-           id="path3878-4"
+           d="M 357.55125,535.58553 342.57542,509.64662"
+           id="path3878"
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
       </g>
       <g
-         transform="translate(-13.534634,7.338581)"
-         id="g4718-7">
+         transform="translate(-9.5669291,7.796646)"
+         id="g3324">
         <text
-           x="371.52795"
-           y="80.37661"
-           id="text4706-0"
+           x="367.56024"
+           y="79.918549"
+           id="text4706"
            xml:space="preserve"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
-             x="371.52795"
-             y="80.37661"
-             id="tspan4708-4">Cut segment</tspan></text>
+             x="367.56024"
+             y="79.918549"
+             id="tspan4708">Cut segment</tspan></text>
         <path
-           d="m 368.09384,95.14882 0,-35.43307"
-           id="path4710-0"
+           d="m 364.12614,94.690756 0,-35.43307"
+           id="path4710"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
         <path
-           d="M 361.51064,77.405383 346.53481,103.34429"
-           id="path4712-1"
+           d="M 357.54294,76.947319 342.56711,102.88623"
+           id="path4712"
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
       </g>
       <g
-         transform="translate(-14.675978,11.338581)"
-         id="g3124-8">
+         transform="translate(-9.5669291,7.796646)"
+         id="g3336">
         <text
-           x="18.678259"
+           x="13.56921"
            y="507.75027"
-           id="text4726-6"
+           id="text4726"
            xml:space="preserve"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
-             x="18.678259"
+             x="13.56921"
              y="507.75027"
-             id="tspan4728-1">Cut segment</tspan></text>
+             id="tspan4728">Cut segment</tspan></text>
         <path
-           d="m 35.256645,495.32933 35.43307,0"
-           id="path4730-3"
+           d="m 30.147596,495.32933 35.43307,0"
+           id="path4730"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
         <path
-           d="M 53.14325,490.79878 74.585903,478.41886"
-           id="path4748-4"
+           d="M 48.034201,490.79878 69.476854,478.41886"
+           id="path4748"
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
       </g>
       <g
-         transform="translate(-13.566929,11.338581)"
-         id="g3114-7">
+         transform="translate(-9.5669291,7.796646)"
+         id="g3319">
         <text
-           x="17.56921"
-           y="102.09476"
-           id="text4948-8"
+           x="13.56921"
+           y="105.6367"
+           id="text4948"
            xml:space="preserve"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
-             x="17.56921"
-             y="102.09476"
-             id="tspan4950-8">Cut segment</tspan></text>
+             x="13.56921"
+             y="105.6367"
+             id="tspan4950">Cut segment</tspan></text>
         <path
-           d="m 34.147596,108.62709 35.43307,0"
-           id="path4952-1"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
-        <path
-           d="m 53.138445,116.41069 21.442653,12.37992"
-           id="path4954-5"
+           d="m 49.138445,119.95263 21.442653,12.37992"
+           id="path4954"
            style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
       </g>
       <g
-         id="g4544">
+         id="g4503">
         <g
-           transform="translate(-9.5669291,11.338581)"
-           id="g3277"
+           transform="translate(-9.5669291,7.796646)"
+           id="g3251"
            style="fill:none;stroke:#000000;stroke-opacity:1">
+          <path
+             d="m 30.147596,112.16903 35.43307,0"
+             id="path4952"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
           <rect
-             width="308.26773"
+             width="304.7244"
              height="201.96851"
-             x="149.18599"
+             x="152.72931"
              y="-322.8537"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2985-1"
+             id="rect2985"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
-             width="308.26773"
+             width="304.7244"
              height="77.952759"
-             x="149.18599"
+             x="152.72931"
              y="-400.80646"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2987-2"
+             id="rect2987"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
-             width="308.26773"
+             width="304.7244"
              height="77.952759"
-             x="149.18599"
+             x="152.72931"
              y="-120.88623"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2989-1"
+             id="rect2989"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="77.952759"
@@ -236,39 +283,39 @@
              x="457.45374"
              y="-322.8537"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2991-3"
+             id="rect2991"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="77.952759"
              height="201.96851"
-             x="71.23185"
+             x="74.773788"
              y="-322.85474"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2993-8"
+             id="rect2993"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
-             width="308.26773"
+             width="304.7244"
              height="201.96851"
-             x="149.18599"
+             x="152.72931"
              y="-602.776"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2995-9"
+             id="rect2995"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="77.952759"
              height="35.433071"
-             x="71.23185"
+             x="74.773788"
              y="-120.88519"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2997-5"
+             id="rect2997"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="35.433071"
              height="77.952759"
-             x="113.75291"
+             x="117.29485"
              y="-400.80646"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect2999-7"
+             id="rect2999"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="77.952759"
@@ -276,7 +323,7 @@
              x="457.45374"
              y="-120.88519"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3001-9"
+             id="rect3001"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="35.433071"
@@ -284,7 +331,7 @@
              x="457.45374"
              y="-400.80646"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3003-7"
+             id="rect3003"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="35.433071"
@@ -292,23 +339,23 @@
              x="535.40509"
              y="-322.8537"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3005-8"
+             id="rect3005"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="35.433071"
              height="201.96851"
-             x="35.798779"
+             x="39.340714"
              y="-322.8537"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3007-4"
+             id="rect3007"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
-             width="308.26773"
+             width="304.7244"
              height="35.433071"
-             x="149.18462"
+             x="152.72794"
              y="-42.933464"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3009-0"
+             id="rect3009"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="49.6063"
@@ -316,7 +363,7 @@
              x="475.16888"
              y="-184.66577"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3011-4"
+             id="rect3011"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="56.692913"
@@ -324,33 +371,33 @@
              x="475.17029"
              y="-261.82758"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3013-5"
+             id="rect3013"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="10.629921"
              height="96.668503"
-             x="138.55469"
+             x="142.09662"
              y="-277.79016"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3015-6"
+             id="rect3015"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <path
              d="m -82.83251,319.49652 a 11.616755,11.616755 0 1 1 -23.23351,0 11.616755,11.616755 0 1 1 23.23351,0 z"
              transform="matrix(0,1.0675593,-1.0675593,0,701.14094,485.64471)"
-             id="path3017-1"
+             id="path3017"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <path
              d="m -82.83251,319.49652 a 11.616755,11.616755 0 1 1 -23.23351,0 11.616755,11.616755 0 1 1 23.23351,0 z"
              transform="matrix(0,1.2963221,-1.2963221,0,780.43061,439.04254)"
-             id="path3019-6"
+             id="path3019"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="10.629921"
              height="31.889763"
-             x="120.83815"
+             x="124.38009"
              y="-163.40588"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3021-0"
+             id="rect3021"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="56.692913"
@@ -358,7 +405,7 @@
              x="283.83029"
              y="-97.854736"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3023-1"
+             id="rect3023"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="30.118111"
@@ -366,7 +413,7 @@
              x="301.54681"
              y="-381.31927"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3002-7"
+             id="rect3002"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
           <rect
              width="24.80315"
@@ -374,96 +421,96 @@
              x="372.41296"
              y="-372.46103"
              transform="matrix(0,1,-1,0,0,0)"
-             id="rect3772-1"
+             id="rect3772"
              style="fill:none;stroke:#000000;stroke-opacity:1" />
         </g>
         <g
-           transform="translate(-9.5669291,11.338581)"
-           id="g3259">
+           transform="translate(-9.5669291,7.796646)"
+           id="g3259-6">
           <text
              x="-252.91391"
              y="134.89255"
              transform="scale(-1,1)"
-             id="text3774-9"
+             id="text3774"
              xml:space="preserve"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
                x="-252.91391"
                y="134.89255"
-               id="tspan3776-0"
+               id="tspan3776"
                style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">SD Card</tspan></text>
           <text
              x="-165.78619"
              y="117.17601"
              transform="scale(-1,1)"
-             id="text3778-4"
+             id="text3778"
              xml:space="preserve"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
                x="-165.78619"
                y="117.17601"
-               id="tspan3780-5"
+               id="tspan3780"
                style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Power</tspan></text>
           <text
              x="132.23143"
              y="-462.92859"
              transform="scale(1,-1)"
-             id="text3782-9"
+             id="text3782"
              xml:space="preserve"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
                x="132.23143"
                y="-462.92859"
-               id="tspan3784-4"
+               id="tspan3784"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Network</tspan></text>
           <text
              x="220.71646"
              y="-463.24854"
              transform="scale(1,-1)"
-             id="text3786-4"
+             id="text3786"
              xml:space="preserve"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
                x="220.71646"
                y="-463.24854"
-               id="tspan3788-1"
+               id="tspan3788"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">USB</tspan></text>
           <text
              x="-347.4584"
              y="-338.96414"
              transform="matrix(0,-1,-1,0,0,0)"
-             id="text3790-1"
+             id="text3790"
              xml:space="preserve"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
                x="-347.4584"
                y="-338.96414"
-               id="tspan3792-7"
+               id="tspan3792"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Composite</tspan><tspan
                x="-347.4584"
                y="-323.96414"
-               id="tspan3794-3"
+               id="tspan3794"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Video Out</tspan></text>
           <text
              x="-400.60034"
              y="-363.27039"
              transform="matrix(0,-1,-1,0,0,0)"
-             id="text3796-2"
+             id="text3796"
              xml:space="preserve"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
                x="-400.60034"
                y="-363.27039"
-               id="tspan3798-0"
+               id="tspan3798"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Audio</tspan><tspan
                x="-400.60034"
                y="-348.27039"
-               id="tspan3800-3"
+               id="tspan3800"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Out</tspan></text>
           <text
              x="296.83398"
              y="73.051651"
              transform="matrix(0,1,1,0,0,0)"
-             id="text3802-2"
+             id="text3802"
              xml:space="preserve"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica LT Std;-inkscape-font-specification:Sans Bold"><tspan
                x="296.83398"
                y="73.051651"
-               id="tspan3804-7"
+               id="tspan3804"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">HDMI</tspan></text>
         </g>
       </g>
